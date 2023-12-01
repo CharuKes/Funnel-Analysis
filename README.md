@@ -28,10 +28,12 @@ Metrocar is a ride-sharing platform that connects riders and drivers through its
 
 1. **Data Extraction:**
    - Extracted data from the Metrocar database to address the business questions outlined in the Excel file.
+   - ![Data Extraction](path/to/your/image.png)
 
 2. **Visualization with Tableau:**
    - Utilized Tableau for data visualization to create insightful charts and graphs.
    - Developed a funnel visualization to analyze user engagement throughout the Metrocar customer journey.
+   -    ![Tableau Visualization](path/to/your/tableau/image.png)
 
 3. **Report Creation:**
    - Generated a comprehensive report in both document (Docs) and presentation (PPT) formats.
@@ -109,26 +111,6 @@ Metrocar is a ride-sharing platform that connects riders and drivers through its
 - Implement incentives to attract more drivers during peak hours at 8 am and 9 am.
 - Optimize driver deployment strategies to ensure maximum coverage during high-demand periods.
 - Reduce wait times for users by enhancing driver availability during these peak hours.
-
-## Data Extraction
-
-![Data Extraction](path/to/your/image.png)
-
-1. **Data Extraction:**
-   - Extracted data from the Metrocar database to address the business questions outlined in the Excel file.
-
-   ![Tableau Visualization](path/to/your/tableau/image.png)
-
-2. **Visualization with Tableau:**
-   - Utilized Tableau for data visualization to create insightful charts and graphs.
-   - Developed a funnel visualization to analyze user engagement throughout the Metrocar customer journey.
-
-3. **Report Creation:**
-   - Generated a comprehensive report in both document (Docs) and presentation (PPT) formats.
-   - Summarized key metrics, findings, and actionable recommendations for improved user engagement and revenue growth.
-
-4. **GitHub Repository Setup:**
-   - Established the GitHub repository for the project, including this README file to provide context and guidance for users and contributors.
 
 ## Final Recommendations
 
