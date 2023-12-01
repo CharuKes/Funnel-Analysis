@@ -34,7 +34,8 @@ Metrocar is a ride-sharing platform that connects riders and drivers through its
 2. **Visualization with Tableau:**
    - Utilized Tableau for data visualization to create insightful charts and graphs.
    - Developed a funnel visualization to analyze user engagement throughout the Metrocar customer journey.
-   -    ![Tableau Visualization](path/to/your/tableau/image.png)
+   -    ![Tableau Visualization](Data/Picture1.png)
+
 
 3. **Report Creation:**
    - Generated a comprehensive report in both document (Docs) and presentation (PPT) formats.
