@@ -124,5 +124,4 @@ Metrocar is a ride-sharing platform that connects riders and drivers through its
 - Optimize driver availability during peak demand hours.
 - Introduce surge pricing during peak demand periods.
 
-**Thank You**
 
