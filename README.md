@@ -1,5 +1,5 @@
 # Metrocar Funnel Analysis
-  ![Snippet](Data/Capture.JPG) 
+
 
 ## Introduction
 
