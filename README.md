@@ -29,8 +29,6 @@ Metrocar is a ride-sharing platform that connects riders and drivers through its
 
 1. **Data Extraction:**
    - Extracted data from the Metrocar database to address the business questions outlined in the Excel file.
-   - ![Data Extraction]([path/to/your/image.png](https://github.com/CharuKes/Funnel-Analysis/blob/master/Data/Capture.JPG))
-
 2. **Visualization with Tableau:**
    - Utilized Tableau for data visualization to create insightful charts and graphs.
    - Developed a funnel visualization to analyze user engagement throughout the Metrocar customer journey.
