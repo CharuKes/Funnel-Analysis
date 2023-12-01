@@ -1,5 +1,5 @@
 # Metrocar Funnel Analysis
-[!image]([Data/Capture.JPG](https://github.com/CharuKes/Funnel-Analysis/blob/master/Data/Capture.JPG))
+![Snippet]([Data/Capture.JPG](https://github.com/CharuKes/Funnel-Analysis/blob/master/Data/Capture.JPG))
 
 ## Introduction
 
